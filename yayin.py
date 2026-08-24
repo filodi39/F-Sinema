@@ -171,7 +171,7 @@ CHANNELS = [
     {
         "name": "F Yeşilçam",
         "key": "fmedya1",
-        "m3u": "https://catcast.ismailturret.workers.dev/50735.m3u8",
+        "m3u": "https://raw.githubusercontent.com/filodi39/F-Sinema/refs/heads/main/fmedya.m3u",
         "logo": "https://i.postimg.cc/J7bRNsJj/17045-removebg-preview.png",
 
         "ads": [
